@@ -1,5 +1,5 @@
 # Car-Price-Prediction
-A project that was created me and my teammate for term project ending, this project is consist of prediction of new car price by using old car price. 
+A project that was created by me and my teammate for term project ending, this project is consist of prediction of new car price by using old car price. 
 
 starting by using random forest in order to find the accurated model, we doing two separated models which one made by me and other other bring made by my teammate which is liner regression (supervised learning) 
 
