@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-A project that was crreated me and my teammate for term project ending, this project is consist of prediction of new car price by using old car price
+The file from this branch is model of mine which is why I choose to created brach separeated and not merge
